@@ -9,9 +9,10 @@
                 </div>
                 <h1 class="text-uppercase" style="font-size: 36pt;">{{ .Site.Params.see_more.title | markdownify }}</h1>
                 <h3 class="lead" style="font-size: 30pt;">{{ .Site.Params.see_more.subtitle | markdownify }}</h3>
+                <h4 class="lead" style="font-size: 18pt;">開催場所: 北海道大学大学院地球環境科学研究院(札幌市北区北10条西5丁目)</h4>
                 <p class="text-center">
                     {{ with .Site.Params.see_more.link_url }}
-                    <a href="{{ . }}" class="btn btn-template-transparent-black btn-lg" style="font-size: 20pt;">
+                    <a href="{{ . }}" class="btn btn-template-transparent-black btn-lg" style="font-size: 16pt;">
                     {{ end }}
                         {{ with .Site.Params.see_more.link_text }}
                         {{ . | markdownify }}

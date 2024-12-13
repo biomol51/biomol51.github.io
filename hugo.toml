@@ -31,9 +31,9 @@ id = ""
     weight     = 1
 
 [[menu.main]]
-    name       = "General"
-    identifier = "menu.general"
-    url        = "/general"
+    name       = "発表申込・参加登録"
+    identifier = "menu.apply"
+    url        = "/apply"
     weight     = 2
 
 [[menu.main]]
@@ -43,7 +43,7 @@ id = ""
     weight     = 3
 
 [[menu.main]]
-    name       = "Program"
+    name       = "プログラム"
     identifier = "section.program"
     url        = "/program"
     weight     = 4
@@ -157,7 +157,7 @@ id = ""
     dropdown_mouse_over = false
 
     disabled_logo = false
-    logo_text = "Universal"
+    logo_text = "Biomol51"
 
     logo = "img/logo_h.png"
     logo_small = "img/logo_h.png"
@@ -219,7 +219,7 @@ id = ""
     icon = "far fa-file-alt"
     title = "第51回生体分子科学討論会"
     subtitle = "2025年6月26日 - 27日"
-    link_url = "#"
+    link_url = "/apply"
     link_text = "参加登録・講演申込・要旨提出はこちら"
 
 [params.clients]
