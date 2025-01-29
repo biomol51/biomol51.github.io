@@ -156,11 +156,11 @@ id = ""
 
     dropdown_mouse_over = false
 
-    disabled_logo = false
-    logo_text = "Biomol51"
+    disabled_logo = true
+    #logo_text = "Biomol51"
 
-    logo = "img/logo_biomol51.png"
-    logo_small = "img/logo_biomol51.png"
+    #logo = "img/logo_biomol51.png"
+    #logo_small = "img/logo_biomol51.png"
     contact_url = "/contact"
     address = """<p>Faculty of Environmental Earth Science, Hokkaido University<br>North 10 West 5, Kita-ku,<br>Sapporo, 060-0810, Japan<br>Phone & Fax: 011-706-2257<br>E-mail: onodalabOA@ees.hokudai.ac.jp</p>"""
 
