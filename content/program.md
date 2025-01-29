@@ -4,7 +4,8 @@ draft = false
 title = 'プログラム'
 +++
 
-<div class="col-md-12">
+## Under construction
+<!-- <div class="col-md-12">
     <table width="100%">
     <tr>
     <th class="text-primary text-center text-large">Day 1</th>
@@ -18,4 +19,4 @@ title = 'プログラム'
         </tr>
     </table>
 </div>
-<br><br>
+<br><br> -->

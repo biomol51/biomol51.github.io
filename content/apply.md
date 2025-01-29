@@ -1,7 +1,7 @@
 +++
 date = '2024-12-12T19:39:17+09:00'
 draft = false
-title = 'Apply'
+title = '発表申込・参加登録'
 +++
 
 <div class="col-md-12">

@@ -1,7 +1,7 @@
 +++
 date = '2024-12-09T18:48:28+09:00'
 draft = false
-title = 'Access'
+title = 'アクセス'
 +++
 
 ## 鈴木章ホール
