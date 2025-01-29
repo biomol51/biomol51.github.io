@@ -4,6 +4,8 @@ draft = false
 title = 'Access'
 +++
 
+## 鈴木章ホール
+
 <div style="font-size: 24px; margin: 50px">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d11115.750406117859!2d141.3394037259131!3d43.07253113836052!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b2909459fac1d%3A0x7c805ca08b4b3436!2sGraduate%20School%20of%20Environmental%20Science!5e0!3m2!1sen!2sjp!4v1733740260446!5m2!1sen!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d23312.79640035796!2d141.3306779!3d43.0814024!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b29042b177d21%3A0xb0f801aaacaec879!2sFrontier%20Research%20in%20Applied%20Sciences%20Building!5e0!3m2!1sen!2sjp!4v1738116883428!5m2!1sen!2sjp" width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>

@@ -169,7 +169,7 @@ id = ""
 
 # Enable or disable top bar with social icons
 [params.topbar]
-    enable = true
+    enable = false
     text = """<p class="hidden-sm hidden-xs">It is our great pleasure to invite you to 第51回生体分子科学討論会. </p>"""
 
 # Enable and disable widgets for the right sidebar
