@@ -97,7 +97,7 @@ id = ""
     author = "Shijie Xu"
     defaultKeywords = ["Biomolecule", "Conference"]
     mainSections = ["blog"]
-    defaultDescription = "第51回生体分子科学討論会"
+    defaultDescription = "2025年6月26日(木)-27日(金) 北海道大学　鈴木章ホール"
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
