@@ -245,7 +245,25 @@ id = ""
 [params.recent_posts]
     enable = true
     title = ""
-    subtitle = """ """
+    subtitle = """<div class="heading text-center" style="font-size: 30pt;"><h2>開催概要</h2></div>
+<div style="font-size: 22px; margin: 30px">
+<p>会期：2025年6月26日（木）、27日（金）<br>
+会場：北海道大学　鈴木章ホール<br>
+討論主題：生体分子及びそのモデル分子の立体構造、電子構造、相互作用、分子認識、機能調節、反応、情報伝達、電子伝達<br>
+発表形態：会場での口頭発表及びポスター発表<br>
+主催：第51回生体分子科学討論会実行委員会<br>
+共催：北海道大学大学院地球環境科学研究</p></div>
+
+<div class="heading text-center" style="font-size: 30pt;"><h2>申込概要</h2></div>
+<div style="font-size: 22px; margin: 30px"><p>
+講演申込・要旨提出：2025年4月1日(火) 〜 2025年5月17日(土)<br>
+事前参加登録：2024年4月1日(火) 〜 2023年5月30日(金)<br>
+<div class="heading text-center" style="font-size: 30pt;"><h2>実行委員会</h2></div>
+<div style="font-size: 22px; margin: 30px"><p>小野田　晃　　（北海道大学大学院地球環境科学研究）実行委員長<br>
+八木　一三　　（北海道大学大学院地球環境科学研究）<br>
+松本　謙一郎　（北海道大学大学院工学研究院）<br>
+内田　毅　　　（北海道大学大学院理学研究院）<br>
+加藤　優　　　（北海道大学大学院地球環境科学研究）</p></div>"""
     hide_summary = false
 
 [params.footer.recent_posts]
