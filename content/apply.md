@@ -27,15 +27,15 @@ title = '発表申込・参加登録'
         <h2>申込概要</h2>
     </div>
     <div class="lead text-center" style="line-height: 2">
-        <p>講演申込・要旨提出：2025年4月1日（火）- 202５年5月10日（金）<br>
+        <p>講演申込・要旨提出：2025年4月1日（火）- 2025年5月17日（金）<br>
             事前参加登録期間：  2025年4月1日（月）- 2025年5月30日（金）</p>
         <p class="text-primary text-center text-large">※若手ポスター発表賞を企画しますので、学生・若手研究者の皆様も奮ってご参加ください。</p>
     </div>
 </div>
 
-<div class="col-md-12">
+<div class="col-md-12" style="margin: 30px">
     <div class="heading text-center" style="font-size: 30pt;">
-        <h2>参加費のお支払いをお願いします</h2>
+        <h2>参加費・懇親費</h2>
     </div>
     <div class="lead text-primary text-center">【振込先】</div>
     <div class="text-large text-center">
@@ -45,12 +45,12 @@ title = '発表申込・参加登録'
             <td>北洋銀行 北七条支店　（店番号：312）</td>
         </tr>
         <tr>
-            <td>口座番号  </td>
+            <td style="vertical-align: middle">口座番号  </td>
             <td style="vertical-align: middle">普通 7223611</td>
         </tr>
         <tr>
-            <td>口座名義  </td>
-            <td style="vertical-align: middle">第51回生体分子科学討論会（ダイゴジュウイッカイセイタイブンシカガクトウ）</td>
+            <td style="vertical-align: middle">口座名義  </td>
+            <td style="vertical-align: middle">第51回生体分子科学討論会<br>（ダイゴジュウイッカイセイタイブンシカガクトウ）</td>
         </tr>
     </table>
     </div>

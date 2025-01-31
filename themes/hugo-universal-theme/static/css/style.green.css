@@ -2622,8 +2622,9 @@ fieldset[disabled] .btn-template-primary.active {
   color: var(--primary-accent);
 }
 #copyright {
-  background: #333;
-  color: #ccc;
+  background: green;
+  /* color: #ccc; */
+  color: lightgreen;
   padding: 50px 0;
   font-size: 12px;
   line-height: 28px;

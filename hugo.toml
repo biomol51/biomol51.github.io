@@ -37,10 +37,16 @@ id = ""
     weight     = 2
 
 [[menu.main]]
+    name       = "招待講演"
+    identifier = "menu.shotaikoen"
+    url        = "/shotaikoen"
+    weight     = 3
+
+[[menu.main]]
     name       = "発表申込・参加登録"
     identifier = "menu.apply"
     url        = "/apply"
-    weight     = 3
+    weight     = 4
 
 #[[menu.main]]
 #    name       = "Speakers"
@@ -118,7 +124,7 @@ id = ""
     longitude = "-77.028333"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
-    style = "default"
+    style = "green"
 
     # Since this template is static, the contact form uses www.formspree.io as a
     # proxy. The form makes a POST request to their servers to send the actual
