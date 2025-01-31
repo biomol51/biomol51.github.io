@@ -44,7 +44,7 @@ title = '発表申込・参加登録'
     </div>
     <div class="lead text-primary text-center" style="color:black">【振込先】</div>
     <div class="text-large text-center">
-    <table class="table table-bordered" style="width: 50%; margin: 0 auto; margin-bottom: 30">
+    <table class="table table-bordered" style="max-width: 600px; width: 100%; margin: 0 auto; margin-bottom: 30">
         <tr>
             <td>銀行名 </td>
             <td>北洋銀行 北七条支店　（店番号：312）</td>
@@ -60,3 +60,11 @@ title = '発表申込・参加登録'
     </table>
     </div>
 </div>
+
+<script>
+document.querySelectorAll('.dropdown').forEach(el => {
+    if (el.querySelector('a').innerHTML.trim() === "発表申込・参加登録") {
+        el.classList.add("active");
+    }
+});
+</script>

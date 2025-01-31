@@ -168,11 +168,11 @@ id = ""
 
     dropdown_mouse_over = false
 
-    disabled_logo = true
+    disabled_logo = false
     #logo_text = "Biomol51"
 
-    #logo = "img/logo_biomol51.png"
-    #logo_small = "img/logo_biomol51.png"
+    logo = "img/logo_ja.png"
+    logo_small = "img/logo_ja.png"
     contact_url = "/contact"
     address = """〒060-0810<br>北海道札幌市北区北10条西5丁目<br>小野田研究室内<br>Tel：011-706-4691<br>E-mail：biomol51@ees.hokudai.ac.jp"""
 
@@ -245,8 +245,11 @@ id = ""
 [params.recent_posts]
     enable = true
     title = ""
-    subtitle = """<div class="heading text-center" style="font-size: 30pt;"><h2>開催概要</h2></div>
-<div style="font-size: 22px; margin: 30px">
+    subtitle = """
+<div class="heading text-center" style="font-size: 30pt;"><h2>お知らせ</h2></div>
+<div style="font-size: 22px; margin-bottom: 50px"><p>2025.2.1 ホームページを公開しました。</p></div>
+<div class="heading text-center" style="font-size: 30pt;"><h2>開催概要</h2></div>
+<div style="font-size: 22px; margin-bottom: 50px">
 <p>会期：2025年6月26日（木）、27日（金）<br>
 会場：北海道大学　鈴木章ホール<br>
 討論主題：生体分子及びそのモデル分子の立体構造、電子構造、相互作用、分子認識、機能調節、反応、情報伝達、電子伝達<br>
@@ -255,15 +258,82 @@ id = ""
 共催：北海道大学大学院地球環境科学研究</p></div>
 
 <div class="heading text-center" style="font-size: 30pt;"><h2>申込概要</h2></div>
-<div style="font-size: 22px; margin: 30px"><p>
+<div style="font-size: 22px; margin-bottom: 50px"><p>
 講演申込・要旨提出：2025年4月1日(火) 〜 2025年5月17日(土)<br>
 事前参加登録：2024年4月1日(火) 〜 2023年5月30日(金)<br>
+</p></div>
 <div class="heading text-center" style="font-size: 30pt;"><h2>実行委員会</h2></div>
-<div style="font-size: 22px; margin: 30px"><p>小野田　晃　　（北海道大学大学院地球環境科学研究）実行委員長<br>
+<div style="font-size: 22px; margin-bottom: 50px">
+<p>小野田　晃　　（北海道大学大学院地球環境科学研究）実行委員長<br>
 八木　一三　　（北海道大学大学院地球環境科学研究）<br>
 松本　謙一郎　（北海道大学大学院工学研究院）<br>
 内田　毅　　　（北海道大学大学院理学研究院）<br>
-加藤　優　　　（北海道大学大学院地球環境科学研究）</p></div>"""
+加藤　優　　　（北海道大学大学院地球環境科学研究）</p></div>
+<div class="heading text-center" style="font-size: 30pt;"><h2>これまでの記録</h2></div>
+<div style="font-size: 16px; margin-bottom: 50px">
+<table class="table table-borderless" style="border: none!important">
+<tr>
+    <td><a href="https://sites.google.com/keio.jp/biomol50/">第50回（2024）＠慶應義塾大学日吉キャンパス</a>（古川良明）</td>
+    <td>第49回（2023）＠千里朝日阪急ビル（林高史）</td>
+</tr>
+<tr>
+    <td>第48回（2022）＠とりぎん文化会館（永野真吾）</td>
+    <td>第47回（2021）＠オンライン（久保稔）</td>
+</tr>
+<tr><td>
+第46回（2019）＠筑波大学大学会館国際会議室（重田育照）
+</td><td>
+第45回（2018）＠大阪市立大学田中記念館（中島洋）
+</td></tr><tr><td>
+第44回（2017）＠あきたカレッジプラザ（尾髙雅文）
+</td><td>
+第43回（2016）＠名古屋大学野依記念学術交流館（野口巧）
+</td></tr><tr><td>
+第42回（2015）@高崎シティーギャラリー（園山正史）
+</td><td>
+第41回（2014）＠九州大学西新プラザ（吉澤一成）
+</td></tr><tr><td>
+第40回（2013）@大阪大学吹田キャンパス（伊東忍）
+</td><td>
+第39回（2012）@東北大学片平さくらホール（高橋聡）
+</td></tr><tr><td>
+第38回（2011）＠筑波大学 大学会館国際会議室（山本泰彦）
+</td><td>
+第37回（2010）@山口大学吉田キャンパス大学会館（右田たい子）
+</td></tr><tr><td>
+第36回（2009）＠北海道大学学術交流会館（石森浩一郎）
+</td><td>
+第35回（2008）＠兵庫県立先端科学技術支援センター（小倉尚志）
+</td></tr><tr><td>
+第34回（2007）＠東北大学片平さくらホール（齋藤正男）
+</td><td>
+第33回（2006）@名古屋工業大学講堂会議室（神取秀樹）
+</td></tr><tr><td>
+第32回（2005）＠神戸大学六甲ホール（水谷泰久）
+</td><td>
+第31回（2004）＠茨城大学理学部（高妻孝光）
+</td></tr><tr><td>
+第30回（2003）@京都大学理学研究科6号館（寺嶋正秀）
+</td><td>
+第29回（2002）＠岡崎コンファレンスセンター（渡辺芳人）
+</td></tr><tr><td>
+第28回（2001）＠金沢大学医学部記念館（長井雅子）
+</td><td>
+第27回（2000）＠東北大学工学部青葉記念会館（竹内英夫）
+</td></tr><tr><td>
+第26回（1999）＠東京工業大学・総合研究館大会議室（竹中章郎）
+</td><td>
+第25回（1998）＠関西学院大学（小山泰）
+</td></tr><tr><td>
+第24回（1997）＠岡崎コンファレンスセンター（北川禎三）
+</td><td>
+第23回（1996）＠横浜市立大学カメリアホール
+</td></tr><tr><td>
+第11回（1984）＠東京工業大学総合研究館大講堂
+</td></tr>
+</table>
+</div>
+"""
     hide_summary = false
 
 [params.footer.recent_posts]

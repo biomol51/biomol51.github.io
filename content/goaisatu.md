@@ -8,3 +8,12 @@ title = 'ご挨拶'
     <br>
     <p style="text-align: right;" >第51回生体分子科学討論会実行委員会<br>実行委員長 :　小野田　晃　（北海道大学大学院地球環境科学研究院）</p>
 </div>
+
+
+<script>
+document.querySelectorAll('.dropdown').forEach(el => {
+    if (el.querySelector('a').innerHTML.trim() === "ご挨拶") {
+        el.classList.add("active");
+    }
+});
+</script>

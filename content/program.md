@@ -20,3 +20,12 @@ title = 'プログラム'
     </table>
 </div>
 <br><br> -->
+
+
+<script>
+document.querySelectorAll('.dropdown').forEach(el => {
+    if (el.querySelector('a').innerHTML.trim() === "プログラム") {
+        el.classList.add("active");
+    }
+});
+</script>

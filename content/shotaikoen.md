@@ -12,3 +12,11 @@ title = '招待講演'
 <li>Devaraj, Neal 教授 &nbsp;&nbsp;&nbsp;&nbsp; Department of Chemistry and Biochemistry, University of California, San Diego</li>
 </ul>
 </div>
+
+<script>
+document.querySelectorAll('.dropdown').forEach(el => {
+    if (el.querySelector('a').innerHTML.trim() === "招待講演") {
+        el.classList.add("active");
+    }
+});
+</script>

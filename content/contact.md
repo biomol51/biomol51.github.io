@@ -13,3 +13,10 @@ Tel：011-706-4691<br>
 E-mail：biomol51@ees.hokudai.ac.jp
 </div>
 
+<script>
+document.querySelectorAll('.dropdown').forEach(el => {
+    if (el.querySelector('a').innerHTML.trim() === "事務局") {
+        el.classList.add("active");
+    }
+});
+</script>
