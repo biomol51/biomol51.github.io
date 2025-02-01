@@ -9,7 +9,7 @@ title = '招待講演'
 <li>岡本 晃充 教授　　東京大学大学院工学系研究科</li>
 <li>當舎 武彦 教授　　兵庫県立大学大学院理学研究科</li>
 <li>脇本 敏幸 教授　　北海道大学大学院薬学研究院</li>
-<li>Devaraj, Neal 教授 &nbsp;&nbsp;&nbsp;&nbsp; Department of Chemistry and Biochemistry, University of California, San Diego</li>
+<li>Devaraj, Neal 教授 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Department of Chemistry and Biochemistry, University of California, San Diego</li>
 </ul>
 </div>
 
