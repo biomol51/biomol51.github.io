@@ -19,7 +19,7 @@ pluralizelisttitles = false
 Shortname = "第51回生体分子科学討論会"
 [services.googleAnalytics]
 # Enable Google Analytics by entering your tracking code
-id = ""
+id = "G-E140TQN5BS"
 
 [menu]
 
@@ -61,7 +61,7 @@ id = ""
     weight     = 5
 
 [[menu.main]]
-    name       = "アクセス"
+    name       = "会場"
     identifier = "section.access"
     url        = "/access"
     weight     = 6
@@ -274,26 +274,25 @@ id = ""
 <table class="table table-borderless" style="border: none!important">
 <tr>
     <td><a href="https://sites.google.com/keio.jp/biomol50/">第50回（2024）＠慶應義塾大学日吉キャンパス</a>（古川良明）</td>
-    <td>第49回（2023）＠千里朝日阪急ビル（林高史）</td>
+    <td><a href="https://sites.google.com/view/biomol49/%E3%83%9B%E3%83%BC%E3%83%A0">第49回（2023）＠千里朝日阪急ビル</a>（林高史）</td>
 </tr>
 <tr>
-    <td>第48回（2022）＠とりぎん文化会館（永野真吾）</td>
-    <td>第47回（2021）＠オンライン（久保稔）</td>
+    <td><a href="https://sites.google.com/tottori-u.ac.jp/biomol48/%E3%83%9B%E3%83%BC%E3%83%A0">第48回（2022）＠とりぎん文化会館（永野真吾）</a></td>
+    <td><a href="https://www.sci.u-hyogo.ac.jp/life/biophys2/biomol47/index.html">第47回（2021）＠オンライン（久保稔）</a></td>
 </tr>
-<tr><td>
-第46回（2019）＠筑波大学大学会館国際会議室（重田育照）
-</td><td>
+<tr>
+    <td><a href="https://www2.ccs.tsukuba.ac.jp/biomol46/">第46回（2019）＠筑波大学大学会館国際会議室</a>（重田育照）</td><td>
 第45回（2018）＠大阪市立大学田中記念館（中島洋）
 </td></tr><tr><td>
 第44回（2017）＠あきたカレッジプラザ（尾髙雅文）
 </td><td>
 第43回（2016）＠名古屋大学野依記念学術交流館（野口巧）
-</td></tr><tr><td>
-第42回（2015）@高崎シティーギャラリー（園山正史）
-</td><td>
-第41回（2014）＠九州大学西新プラザ（吉澤一成）
-</td></tr><tr><td>
-第40回（2013）@大阪大学吹田キャンパス（伊東忍）
+</td></tr><tr><td><a href="https://www.facebook.com/biomolecularscience">
+第42回（2015）@高崎シティーギャラリー</a>（園山正史）
+</td><td><a href="http://trout.scc.kyushu-u.ac.jp/biomol41/index.html">
+第41回（2014）＠九州大学西新プラザ</a>（吉澤一成）
+</td></tr><tr><td><a href="http://www-bfc.mls.eng.osaka-u.ac.jp/bio40/index">
+第40回（2013）@大阪大学吹田キャンパス</a>（伊東忍）
 </td><td>
 第39回（2012）@東北大学片平さくらホール（高橋聡）
 </td></tr><tr><td>
@@ -306,10 +305,10 @@ id = ""
 第35回（2008）＠兵庫県立先端科学技術支援センター（小倉尚志）
 </td></tr><tr><td>
 第34回（2007）＠東北大学片平さくらホール（齋藤正男）
-</td><td>
-第33回（2006）@名古屋工業大学講堂会議室（神取秀樹）
-</td></tr><tr><td>
-第32回（2005）＠神戸大学六甲ホール（水谷泰久）
+</td><td><a href="http://www.ach.nitech.ac.jp/~physchem/kandori/biomol33/index.html">
+第33回（2006）@名古屋工業大学講堂会議室</a>（神取秀樹）
+</td></tr><tr><td><a href="http://www.ach.nitech.ac.jp/~physchem/kandori/biomol33/images/biomol32_program.pdf">
+第32回（2005）＠神戸大学六甲ホール</a>（水谷泰久）
 </td><td>
 第31回（2004）＠茨城大学理学部（高妻孝光）
 </td></tr><tr><td>

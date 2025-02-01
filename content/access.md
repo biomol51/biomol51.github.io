@@ -1,7 +1,7 @@
 +++
 date = '2024-12-09T18:48:28+09:00'
 draft = false
-title = 'アクセス'
+title = '会場'
 +++
 
 ## 北海道大学　フロンティア応用科学研究棟・鈴木章ホール
@@ -12,7 +12,7 @@ title = 'アクセス'
 
 <script>
 document.querySelectorAll('.dropdown').forEach(el => {
-    if (el.querySelector('a').innerHTML.trim() === "アクセス") {
+    if (el.querySelector('a').innerHTML.trim() === "会場") {
         el.classList.add("active");
     }
 });
