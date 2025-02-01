@@ -523,7 +523,7 @@ ul.list-style-none {
 /* buttons  */
 .btn {
   font-weight: 700;
-  font-family: "HiraMaruPro-W4", Helvetica, Arial, sans-serif;
+  font-family: "HiraMaruPro-W4", Meiryo, Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   letter-spacing: 0.08em;
   padding: 6px 12px;
@@ -748,7 +748,7 @@ fieldset[disabled] .btn-template-primary.active {
   background-size: cover;
 }
 #intro .item {
-  font-family: "HiraMaruPro-W4", Helvetica, Arial, sans-serif;
+  font-family: "HiraMaruPro-W4", Meiryo, Helvetica, Arial, sans-serif;
   height: 100%;
 }
 #intro .item h1 {
@@ -946,7 +946,7 @@ fieldset[disabled] .btn-template-primary.active {
   letter-spacing: 0.08em;
 }
 .panel.sidebar-menu ul.nav.category-menu li a {
-  font-family: "HiraMaruPro-W4", Helvetica, Arial, sans-serif;
+  font-family: "HiraMaruPro-W4", Meiryo, Helvetica, Arial, sans-serif;
 }
 .panel.sidebar-menu ul.nav ul {
   list-style: none;
@@ -1089,7 +1089,7 @@ fieldset[disabled] .btn-template-primary.active {
   margin: 30px 10px 10px -71px;
   color: #fff;
   background-color: var(--primary-accent);
-  font-family: "HiraMaruPro-W4", Helvetica, Arial, sans-serif;
+  font-family: "HiraMaruPro-W4", Meiryo, Helvetica, Arial, sans-serif;
 }
 .ribbon .theribbon:before,
 .ribbon .theribbon:after {
@@ -2213,7 +2213,7 @@ fieldset[disabled] .btn-template-primary.active {
   font-size: 12px;
 }
 #blog-post .comment .reply {
-  font-family: "HiraMaruPro-W4", Helvetica, Arial, sans-serif;
+  font-family: "HiraMaruPro-W4", Meiryo, Helvetica, Arial, sans-serif;
 }
 #blog-post .comment.last {
   margin-bottom: 0;
@@ -2365,7 +2365,7 @@ fieldset[disabled] .btn-template-primary.active {
   color: #555555;
   text-align: center;
   text-decoration: none;
-  font-family: "HiraMaruPro-W4", Helvetica, Arial, sans-serif;
+  font-family: "HiraMaruPro-W4", Meiryo, Helvetica, Arial, sans-serif;
 }
 #productMain .sizes a.active,
 #productMain .sizes a:hover {
@@ -2671,7 +2671,7 @@ fieldset[disabled] .btn-template-primary.active {
 /* Original Boostrap template overwrite */
 /* breadcrumbs */
 .breadcrumb {
-  font-family: "HiraMaruPro-W4", Helvetica, Arial, sans-serif;
+  font-family: "HiraMaruPro-W4", Meiryo, Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   background-color: none;
   letter-spacing: 0.08em;
@@ -3175,7 +3175,7 @@ fieldset[disabled] .navbar-default .btn-link:focus {
 }
 /* scaffolding */
 body {
-  font-family: "HiraMaruPro-W4", Helvetica, Arial, sans-serif;
+  font-family: "HiraMaruPro-W4", Meiryo, Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #555555;
@@ -3253,7 +3253,7 @@ hr {
 }
 /* labels */
 .label {
-  font-family: "HiraMaruPro-W4", Helvetica, Arial, sans-serif;
+  font-family: "HiraMaruPro-W4", Meiryo, Helvetica, Arial, sans-serif;
   font-weight: normal;
   text-transform: uppercase;
   letter-spacing: 0.08em;
@@ -3283,7 +3283,7 @@ label {
   padding-top: 20px;
   text-transform: uppercase;
   letter-spacing: 0.08em;
-  font-family: "HiraMaruPro-W4", Helvetica, Arial, sans-serif;
+  font-family: "HiraMaruPro-W4", Meiryo, Helvetica, Arial, sans-serif;
 }
 .pager li {
   display: inline;
@@ -3311,7 +3311,7 @@ label {
 /* pagination */
 .pagination {
   margin: 20px 0;
-  font-family: "HiraMaruPro-W4", Helvetica, Arial, sans-serif;
+  font-family: "HiraMaruPro-W4", Meiryo, Helvetica, Arial, sans-serif;
   border-radius: 0;
 }
 .pagination > li > a,
@@ -3386,7 +3386,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "HiraMaruPro-W4", Helvetica, Arial, sans-serif;
+  font-family: "HiraMaruPro-W4", Meiryo, Helvetica, Arial, sans-serif;
   font-weight: 900;
   line-height: 1.1;
   color: #333333;
