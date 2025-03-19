@@ -27,8 +27,8 @@ title = '発表申込・参加登録'
     <div class="lead text-center" style="line-height: 2">
         <p>対面での口頭（発表15分, 質疑応答5分）・ポスター発表</p>
         <p>
-            <a href="https://drive.google.com/file/d/1sUv5yqLw5SIUMvlRqJzw9GSho274DS4F/view?usp=sharing" class="btn btn-template-primary" style="font-size: 20px; display: inline-block; margin-bottom: 10px;">口頭要旨テンプレート</a>
-            <a href="https://drive.google.com/file/d/1sCjJfphX4Fw8qu30TWLkJTEmFKwriRAC/view?usp=sharing" class="btn btn-template-primary" style="font-size: 20px; display: inline-block; margin-bottom: 10px;">ポスター要旨テンプレート</a>
+            <a href="https://drive.google.com/file/d/1i0ezWJMI1Xv2Gs7gsSzZJX9w47LJn0lP/view?usp=sharing" class="btn btn-template-primary" style="font-size: 20px; display: inline-block; margin-bottom: 10px;">口頭要旨テンプレート</a>
+            <a href="https://drive.google.com/file/d/1X9OhUw1MxXM3d3QKUhBtKSunexU65FPV/view?usp=sharing" class="btn btn-template-primary" style="font-size: 20px; display: inline-block; margin-bottom: 10px;">ポスター要旨テンプレート</a>
         </p>
     </div>
 </div>
