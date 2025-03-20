@@ -38,7 +38,7 @@ title = '若手ポスター発表賞審査フォーム'
 <div class="col-md-12" style="display: none" id="shinsa">
     <div class="lead" style="line-height: 2">
         <p>審査員：<span id="reviewer_name"></span> 先生</p>
-        <p>審査コード： <span id="access_code"></span></p>
+        <p>アクセスコード： <span id="access_code"></span></p>
         <p>採点基準： 
             <ul>
                 <li>ポスター：ポスターの見やすさ、分かりやすさ（10点満点）</li>
@@ -46,7 +46,7 @@ title = '若手ポスター発表賞審査フォーム'
                 <li>質疑：質疑を的確に理解し、論理的に回答しているか（10点満点）</li>
             </ul>
         </p>
-        <p class="text-primary">※審査終了後、 17:40 までに受付に提出してください<br>※絶対評価で採点を行ってください。基準として平均的なポスター発表の各項目の点数を5点 としてください。</p>
+        <p class="text-primary">※審査終了後、 17:40 までに受付に提出してください<br>※絶対評価で採点を行ってください。基準として平均的なポスター発表の各項目の点数を5点 としてください。<br>※何度でも提出可能ですが、最後に提出したものが最終得点として記録されます。</p>
     </div>
     <div id="posters"></div>
     <p><button type="submit" class="btn btn-primary text-large">提出</button></p>
@@ -56,6 +56,7 @@ title = '若手ポスター発表賞審査フォーム'
     window.onload = function() {
         let userInput = prompt("アクセスコードを入力してください：");
         fetch('https://onodalab.ees.hokudai.ac.jp/biomol51/review/?access_code=' + userInput, {
+        // fetch('http://localhost:7891/review/?access_code=' + userInput, {
             method: 'GET',
             headers: {
                 'Accept': 'application/json',
@@ -96,9 +97,10 @@ title = '若手ポスター発表賞審査フォーム'
             'score1': $('.score1').map((_, el) => $(el).val() || '').get(),
             'score2': $('.score2').map((_, el) => $(el).val() || '').get(),
             'score3': $('.score3').map((_, el) => $(el).val() || '').get(),
-            'comment': $('.comment').map((_, el) => $(el).text().trim()).get(),
+            'comment': $('.comment').map((_, el) => $(el).val().trim()).get(),
         };
         fetch('https://onodalab.ees.hokudai.ac.jp/biomol51/submit/', {
+        // fetch('http://localhost:7891/submit/', {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json',
