@@ -15,8 +15,6 @@ title = '発表申込・参加登録'
     </div>
     <div class="lead text-center" style="line-height: 2">
         <p>生体分子及びそのモデル分子の立体構造、電子構造、相互作用、分子認識、機能調節、反応、情報伝達、電子伝達</p>
-        <p><a href="https://forms.gle/yGa1bEoRnMAMTzDYA" class="btn btn-template-primary" style="font-size: 24px">参加登録はこちら</a></p>
-        <p class="text-primary text-center text-large">※Googleアカウントをお持ちでなく、上記の要旨提出フォームからアップロードできない場合には、事務局までお知らせください。</p>
     </div>
 </div>
 
@@ -27,8 +25,10 @@ title = '発表申込・参加登録'
     <div class="lead text-center" style="line-height: 2">
         <p>対面での口頭（発表15分, 質疑応答5分）・ポスター発表</p>
         <p>
-            <a href="https://drive.google.com/file/d/1i0ezWJMI1Xv2Gs7gsSzZJX9w47LJn0lP/view?usp=sharing" class="btn btn-template-primary" style="font-size: 20px; display: inline-block; margin-bottom: 10px;">口頭要旨テンプレート</a>
-            <a href="https://drive.google.com/file/d/1X9OhUw1MxXM3d3QKUhBtKSunexU65FPV/view?usp=sharing" class="btn btn-template-primary" style="font-size: 20px; display: inline-block; margin-bottom: 10px;">ポスター要旨テンプレート</a>
+            <a href="/docs/要旨口頭(氏名).docx" class="btn btn-template-primary" style="font-size: 20px; display: inline-block; margin-bottom: 10px;">口頭要旨テンプレート</a>
+            <a href="/docs/要旨口頭（原稿見本）.docx" class="btn btn-template-primary" style="font-size: 20px; display: inline-block; margin-bottom: 10px;">口頭要旨見本</a>
+            <a href="/docs/ポスター要旨(氏名).docx" class="btn btn-template-primary" style="font-size: 20px; display: inline-block; margin-bottom: 10px;">ポスター要旨テンプレート</a>
+            <a href="/docs/ポスター要旨(原稿見本).docx" class="btn btn-template-primary" style="font-size: 20px; display: inline-block; margin-bottom: 10px;">ポスター要旨見本</a>
         </p>
     </div>
 </div>
@@ -42,7 +42,7 @@ title = '発表申込・参加登録'
             事前参加登録期間：  2025年4月1日（火）- 2025年5月30日（金）</p>
         <p class="text-primary text-center text-large">※若手ポスター発表賞を企画しますので、学生・若手研究者の皆様も奮ってご参加ください。</p>
         <p class="text-primary text-center text-large">※若手研究者（発表時点で35歳未満の任期付博士研究員）及び学生の優れたポスター発表に対してポスター賞を授与します。ポスター賞の審査を希望される方は講演申込時にご応募ください。</p>
-        <p><a href="https://forms.gle/JPNkQR3hFP8P5U9s6" class="btn btn-template-primary" style="font-size: 24px">要旨提出フォーム</a></p>
+        <p><a href="https://forms.gle/yGa1bEoRnMAMTzDYA" class="btn btn-template-primary" style="font-size: 24px">発表申込・要旨提出フォーム</a></p>
         <p class="text-primary text-center text-large">※Googleアカウントをお持ちでなく、上記の要旨提出フォームからアップロードできない場合には、事務局までお知らせください。</p>
     </div>
 </div>
