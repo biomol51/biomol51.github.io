@@ -42,7 +42,7 @@ title = '発表申込・参加登録'
             事前参加登録期間：  2025年4月1日（火）- 2025年5月30日（金）</p>
         <p class="text-primary text-center text-large">※若手ポスター発表賞を企画しますので、学生・若手研究者の皆様も奮ってご参加ください。</p>
         <p class="text-primary text-center text-large">※若手研究者（発表時点で35歳未満の任期付博士研究員）及び学生の優れたポスター発表に対してポスター賞を授与します。ポスター賞の審査を希望される方は講演申込時にご応募ください。</p>
-        <p><a href="https://forms.gle/yGa1bEoRnMAMTzDYA" class="btn btn-template-primary" style="font-size: 24px">発表申込・要旨提出フォーム</a></p>
+        <p><a href="https://forms.gle/yGa1bEoRnMAMTzDYA" class="btn btn-template-primary" style="font-size: 24px">発表申込・要旨提出・参加登録フォーム</a></p>
         <p class="text-primary text-center text-large">※Googleアカウントをお持ちでなく、上記の要旨提出フォームからアップロードできない場合には、事務局までお知らせください。</p>
     </div>
 </div>
