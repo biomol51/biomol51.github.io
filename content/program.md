@@ -9,7 +9,7 @@ title = 'プログラム'
         <h2>口頭発表プログラム</h2>
     </div>
     <div class="lead text-center" style="line-height: 2">
-        <p><a href="" class="btn btn-template-primary" style="font-size: 24px">PDFはこちら</a></p>
+        <p><a href="https://drive.google.com/file/d/1a0R-BYGnEjiVTZI81pVpTRPhz6pAPrC1/view?usp=sharing" class="btn btn-template-primary" style="font-size: 24px">PDFはこちら</a></p>
     </div>
 </div>
 <div class="col-md-12" style="margin-bottom: 50px">
