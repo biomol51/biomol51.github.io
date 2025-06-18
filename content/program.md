@@ -125,7 +125,7 @@ title = 'プログラム'
                 </div>
             </div>
         <p style="text-align: left; font-size: 14pt;">
-            19:00 - 21:00 懇親会 (<a href="https://grand1934.com/restaurant/old-saloon1934/">札幌グランドホテル　OLD SALOON 1934</a>, <a href="/access#konshikai">会場はこちら</a>)
+            19:00 - 21:00 懇親会 (<a href="https://grand1934.com/restaurant/old-saloon1934/">札幌グランドホテル　OLD SALOON 1934</a>, <a href="/access#konshinkai">会場はこちら</a>)
         </p>
         <p style="font-size: 20pt;font-weight: bold"><u>2日目　6月27日（金）</u></p>
         <p style="text-align: left; font-size: 14pt;">
