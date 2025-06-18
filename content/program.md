@@ -125,11 +125,8 @@ title = 'プログラム'
                 </div>
             </div>
         <p style="text-align: left; font-size: 14pt;">
-            19:00 - 21:00 懇親会 (<a href="https://grand1934.com/restaurant/old-saloon1934/">札幌グランドホテル　OLD SALOON 1934</a>)
+            19:00 - 21:00 懇親会 (<a href="https://grand1934.com/restaurant/old-saloon1934/">札幌グランドホテル　OLD SALOON 1934</a>, <a href="/access#konshikai">会場はこちら</a>)
         </p>
-        <div style="font-size: 24px; margin: 50px">
-        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2914.99712167536!2d141.34820347661275!3d43.062528090432416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b299c3576b40d%3A0xeef8cc09f42377ef!2sLounge%20%26%20Bar%20Old%20Saloon%201934!5e0!3m2!1sen!2sjp!4v1750130580244!5m2!1sen!2sjp" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div>
         <p style="font-size: 20pt;font-weight: bold"><u>2日目　6月27日（金）</u></p>
         <p style="text-align: left; font-size: 14pt;">
             9:30 – 10:50「口頭発表」<br>

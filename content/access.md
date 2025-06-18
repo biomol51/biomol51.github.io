@@ -12,7 +12,7 @@ title = '会場'
 
 ## 懇親会会場　札幌グランドホテル　OLD SALOON 1934
 
-<div style="font-size: 24px; margin: 50px">
+<div style="font-size: 24px; margin: 50px" id="konshikai">
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2914.99712167536!2d141.34820347661275!3d43.062528090432416!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x5f0b299c3576b40d%3A0xeef8cc09f42377ef!2sLounge%20%26%20Bar%20Old%20Saloon%201934!5e0!3m2!1sen!2sjp!4v1750130580244!5m2!1sen!2sjp" width="100%" height="600" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 </div>
 
