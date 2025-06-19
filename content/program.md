@@ -9,7 +9,7 @@ title = 'プログラム'
         <h2>口頭発表プログラム</h2>
     </div>
     <div class="lead text-center" style="line-height: 2">
-        <p><a href="/docs/oral_program_20250619.pdf" class="btn btn-template-primary" style="font-size: 24px">PDFはこちら</a></p>
+        <p><a href="/docs/biomol51_oral_program.pdf" class="btn btn-template-primary" style="font-size: 24px">PDFはこちら</a></p>
     </div>
 </div>
 <div class="col-md-12" style="margin-bottom: 50px">
@@ -17,7 +17,7 @@ title = 'プログラム'
         <h2>ポスター発表プログラム</h2>
     </div>
     <div class="lead text-center" style="line-height: 2">
-        <p><a href="/docs/poster_program_20250619.pdf" class="btn btn-template-primary" style="font-size: 24px">PDFはこちら</a></p>
+        <p><a href="/docs/biomol51_poster_program.pdf" class="btn btn-template-primary" style="font-size: 24px">PDFはこちら</a></p>
     </div>
 </div>
 <div class="col-md-12" style="margin-bottom: 50px">
@@ -25,7 +25,7 @@ title = 'プログラム'
         <h2>要旨集</h2>
     </div>
     <div class="lead text-center" style="line-height: 2">
-        <p><a href="/docs/OralPoster_20250619.pdf" class="btn btn-template-primary" style="font-size: 24px">PDFはこちら</a></p>
+        <p><a href="/docs/biomol51_abstracts.pdf" class="btn btn-template-primary" style="font-size: 24px">PDFはこちら</a></p>
         <p class="text-primary text-center text-large">※要パスワード、参加登録者のみ閲覧可。</p>
     </div>
 </div>
