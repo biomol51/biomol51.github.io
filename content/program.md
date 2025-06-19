@@ -184,7 +184,7 @@ title = 'プログラム'
                 <div>
                     <div>微生物がもつ一酸化窒素分解システム</div>
         <div>〇當舎　武彦</div>
-        <div>兵庫大院・理</div>
+        <div>兵県大院・理</div>
                 </div>
             </div>
             <p style="text-align: left; font-size: 14pt;">
