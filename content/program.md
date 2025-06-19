@@ -9,7 +9,7 @@ title = 'プログラム'
         <h2>口頭発表プログラム</h2>
     </div>
     <div class="lead text-center" style="line-height: 2">
-        <p><a href="/docs/oral_program_20250618.pdf" class="btn btn-template-primary" style="font-size: 24px">PDFはこちら</a></p>
+        <p><a href="/docs/oral_program_20250619.pdf" class="btn btn-template-primary" style="font-size: 24px">PDFはこちら</a></p>
     </div>
 </div>
 <div class="col-md-12" style="margin-bottom: 50px">
@@ -17,7 +17,7 @@ title = 'プログラム'
         <h2>ポスター発表プログラム</h2>
     </div>
     <div class="lead text-center" style="line-height: 2">
-        <p><a href="/docs/poster_program_20250618.pdf" class="btn btn-template-primary" style="font-size: 24px">PDFはこちら</a></p>
+        <p><a href="/docs/poster_program_20250619.pdf" class="btn btn-template-primary" style="font-size: 24px">PDFはこちら</a></p>
     </div>
 </div>
 <div class="col-md-12" style="margin-bottom: 50px">
@@ -25,7 +25,7 @@ title = 'プログラム'
         <h2>要旨集</h2>
     </div>
     <div class="lead text-center" style="line-height: 2">
-        <p><a href="" class="btn btn-template-primary" style="font-size: 24px">PDFはこちら</a></p>
+        <p><a href="/docs/OralPoster_20250619.pdf" class="btn btn-template-primary" style="font-size: 24px">PDFはこちら</a></p>
         <p class="text-primary text-center text-large">※要パスワード、参加登録者のみ閲覧可。</p>
     </div>
 </div>
@@ -152,7 +152,7 @@ title = 'プログラム'
                 <div>
         <div>フラビンを介したDNA酸化における初期反応機構の考察</div>
         <div>〇岡　芳美<sup>1,2</sup>、井上　克也<sup>1,2,3</sup></div>
-        <div><sup>1</sup>広島大・キラルノット超物質拠点、<sup>2</sup>広島大・キラル国際研究拠点、<sup>3</sup>広島大院・先進理工大学</div>
+        <div><sup>1</sup>広島大・キラルノット超物質拠点、<sup>2</sup>広島大・キラル国際研究拠点、<sup>3</sup>広島大院・先進理工</div>
                 </div>
             </div>
             <div style="display: flex; align-items: flex-start;text-align: left; font-size: 12pt; margin-left: 10pt">
@@ -201,7 +201,7 @@ title = 'プログラム'
             <div style="display: flex; align-items: flex-start;text-align: left; font-size: 12pt; margin-left: 10pt">
                 <div style="margin-right: 10pt">O13</div>
                 <div>
-                    <div>ポルフィリン - シトクロムc552複合体から得られる赤色光応答性一重項酸素発生剤</div>
+                    <div>ポルフィリン - シトクロム<i>c</i><sub>552</sub>複合体から得られる赤色光応答性一重項酸素発生剤</div>
         <div>〇中島　洋<sup>1</sup>、大西　真喜志<sup>1</sup>、大島　健太<sup>2</sup>、西岡　孝訓<sup>1</sup></div>
         <div><sup>1</sup>阪公大院・理、<sup>2</sup>阪市大院・理</div>
                 </div>
